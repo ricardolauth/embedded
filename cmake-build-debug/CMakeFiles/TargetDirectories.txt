@@ -1,0 +1,3 @@
+C:/Users/ricar/CLionProjects/embedded/cmake-build-debug/CMakeFiles/embedded.dir
+C:/Users/ricar/CLionProjects/embedded/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ricar/CLionProjects/embedded/cmake-build-debug/CMakeFiles/rebuild_cache.dir
