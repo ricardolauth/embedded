@@ -118,10 +118,10 @@ int main(int argc, char *argv[]) {
         {
             int cor = corrolation(vec, chips[i], j);
             if(cor >= 828){
-                cout << "Satellite " << i << " has send bit 1 (Delta=" << j <<")" << endl;
+                cout << "Satellite " << i + 1 << " has send bit 1 (Delta=" << j <<")" << endl;
             }
             if(cor <= -834){
-                cout << "Satellite " << i << " has send bit 0 (Delta=" << j <<")" << endl;
+                cout << "Satellite " << i + 1 << " has send bit 0 (Delta=" << j <<")" << endl;
             }
         }
     }
